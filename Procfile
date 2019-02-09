@@ -1,1 +1,1 @@
-worker: python changmunebot.py
+worker: python kimduhanbot.py
